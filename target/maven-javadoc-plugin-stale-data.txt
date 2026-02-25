@@ -9,7 +9,7 @@
 -source
 '21'
 -sourcepath
-'C:/Users/danic/IdeaProjects/iis26/calculator/src/main/java'
+'C:/Users/danic/IdeaProjects/iis26/calculator/src/main/java;C:/Users/danic/IdeaProjects/iis26/calculator/target/generated-sources/annotations'
 -author
 -bottom
 'Copyright &#169; 2026. All rights reserved.'
@@ -27,16 +27,17 @@
 'calculator 1.0-SNAPSHOT API'
 org.iis.ajnebro
 C:\Users\danic\IdeaProjects\iis26\calculator\src\main\java = 1771921330955
-C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\allclasses-index.html = 1772016172020
-C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\allpackages-index.html = 1772016172023
-C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\element-list = 1772016171977
-C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\help-doc.html = 1772016172070
-C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\index-all.html = 1772016172054
-C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\index.html = 1772016172064
-C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\member-search-index.js = 1772016172033
-C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\module-search-index.js = 1772016172026
-C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\overview-tree.html = 1772016172004
-C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\package-search-index.js = 1772016172029
-C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\search.html = 1772016172059
-C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\tag-search-index.js = 1772016172035
-C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\type-search-index.js = 1772016172031
+C:\Users\danic\IdeaProjects\iis26\calculator\target\generated-sources\annotations = 1772016487697
+C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\allclasses-index.html = 1772016501046
+C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\allpackages-index.html = 1772016501051
+C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\element-list = 1772016501003
+C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\help-doc.html = 1772016501076
+C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\index-all.html = 1772016501067
+C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\index.html = 1772016501072
+C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\member-search-index.js = 1772016501056
+C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\module-search-index.js = 1772016501052
+C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\overview-tree.html = 1772016501035
+C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\package-search-index.js = 1772016501054
+C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\search.html = 1772016501070
+C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\tag-search-index.js = 1772016501057
+C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\type-search-index.js = 1772016501055
